@@ -34,7 +34,7 @@ export const profile = {
     github: "https://github.com/Mohamed101-4",
   },
   photo: "/mohamed.jpg",
-  siteUrl: "https://mohamedali.dev", // change to your deployed domain
+  siteUrl: "https://mo4amed.vercel.app",
 };
 
 export const nav = [
